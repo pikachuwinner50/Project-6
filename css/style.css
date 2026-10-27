@@ -481,7 +481,7 @@ fieldset input[type="radio"] {
 
 .quiz-results {
 	color: var(--ink);
-	background-color: #f0fdf4;
+	background-color: #c3d89a18;
 	padding: 18px;
 	border-radius: 8px;
 	font-size: 1rem;
